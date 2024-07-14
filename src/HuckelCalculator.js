@@ -187,7 +187,7 @@ const HuckelCalculator = () => {
       }));
 
       setResults({ orbitals });
-      setSelectedOrbital(orbitals[orbitals.length - 1]); // Select HOMO
+      setSelectedOrbital(orbitals[orbitals.length / 2 - 1]); // Select HOMO
     } catch (error) {
       console.error("Error in Hückel calculation:", error);
       let errorMessage = "An error occurred during the calculation. ";
