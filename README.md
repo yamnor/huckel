@@ -8,6 +8,8 @@ An interactive web application for performing Hückel molecular orbital (HMO) ca
 
 This Hückel Calculator is a React-based web application that allows users to draw molecular structures, perform HMO calculations, and visualize the results. It's designed for students, educators, and researchers in the field of quantum chemistry.
 
+![](https://i.gyazo.com/065b5fa0777ccf8df40abe64b1be6c94.gif)
+
 ## Features
 
 - Interactive molecular structure editor
