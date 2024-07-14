@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/huckel/static/css/main.f2e5444c.css",
-    "main.js": "/huckel/static/js/main.3f37a063.js",
+    "main.js": "/huckel/static/js/main.97289551.js",
     "index.html": "/huckel/index.html",
     "main.f2e5444c.css.map": "/huckel/static/css/main.f2e5444c.css.map",
-    "main.3f37a063.js.map": "/huckel/static/js/main.3f37a063.js.map"
+    "main.97289551.js.map": "/huckel/static/js/main.97289551.js.map"
   },
   "entrypoints": [
     "static/css/main.f2e5444c.css",
-    "static/js/main.3f37a063.js"
+    "static/js/main.97289551.js"
   ]
 }
