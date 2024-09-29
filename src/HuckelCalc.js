@@ -9,7 +9,7 @@ const ENERGY_DIAGRAM_PADDING = 0.1;
 const ENERGY_LINE_WIDTH = 80;
 const ENERGY_LINE_SPACING = 15;
 
-const HuckelCalculator = () => {
+const HuckelCalc = () => {
   // State management
   const [atoms, setAtoms] = useState([]);
   const [bonds, setBonds] = useState([]);
@@ -559,4 +559,4 @@ const HuckelCalculator = () => {
   );
 };
 
-export default HuckelCalculator;
+export default HuckelCalc;
